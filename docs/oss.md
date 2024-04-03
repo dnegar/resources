@@ -12,3 +12,13 @@
 * گیت‌هاب: https://github.com/docsifyjs/docsify
 * پلاگین‌های استفاده شده
   * https://github.com/ckoliber/docsify-rtl
+  
+## کتابخانه D3
+کتابخانه‌ای جاوااسکریپتی برای مصورسازی داده‌ها با استفاده از SVG, Canvas و HTML.
+* وبسایت: https://d3js.org
+* گیت‌هاب: https://github.com/d3
+
+## کتابخانه observable plot
+کتابخانه‌ای جاوااسکریپتی برای مصورسازی داده‌های جدولی است.
+* وبسایت: https://observablehq.com/plot
+* گیت‌هاب: https://github.com/observablehq/plot
