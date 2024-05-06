@@ -12,6 +12,8 @@
 * گیت‌هاب: https://github.com/docsifyjs/docsify
 * پلاگین‌های استفاده شده
   * https://github.com/ckoliber/docsify-rtl
+  * https://docsify.js.org/#/plugins?id=full-text-search
+  * https://github.com/jhildenbiddle/docsify-themeable
 
 ## کتابخانه D3
 کتابخانه‌ای جاوااسکریپتی برای مصورسازی داده‌ها با استفاده از SVG, Canvas و HTML.
