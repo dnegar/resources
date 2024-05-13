@@ -7,7 +7,7 @@
 > داستان خود را به تصویر بکشید.
 
 
-<!-- [گیت هاب](https://github.com/dnegar/) -->
+[وبگاه](https://dnegar.ir)
 [شروع](#داده-نگار)
 
 <!-- background color -->
