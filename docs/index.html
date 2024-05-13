@@ -35,11 +35,26 @@
         bdo: "ltr"
       },
       search: 'auto', // default
-      // تنظیمات جستجو
+      // search setting
       search: {
         placeholder: 'جستجو',
         noData: 'موردی یافت نشد'
       },
+      // add footer
+      plugins: [
+        function pageFooter(hook, vm) {
+          var footer = [
+            '<hr/>',
+            '<footer>',
+            '<span>قدرت گرفته از <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a></span>',
+            '</footer>',
+          ].join('');
+
+          hook.afterEach(function (html) {
+            return html + footer;
+          });
+        },
+      ],
     }
   </script>
   <!-- Docsify v4 -->
