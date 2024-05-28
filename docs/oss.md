@@ -13,7 +13,6 @@
 * پلاگین‌های استفاده شده
   * https://github.com/ckoliber/docsify-rtl
   * https://docsify.js.org/#/plugins?id=full-text-search
-  * https://github.com/jhildenbiddle/docsify-themeable
   * https://docsify.js.org/#/plugins?id=zoom-image
 
 ## کتابخانه D3
