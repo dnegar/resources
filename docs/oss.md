@@ -25,3 +25,8 @@
 کتابخانه‌ای جاوااسکریپتی برای مصورسازی داده‌های جدولی است.
 * وبگاه: https://observablehq.com/plot
 * گیت‌هاب: https://github.com/observablehq/plot
+
+## فونت وزیرمتن
+پروژه وزیرمتن یک خانواده تایپ‌فیس فارسی-عربی با ۹ وزن است که به صورت متن‌باز منتشر شده است.
+* وبگاه: https://rastikerdar.github.io/vazirmatn/fa
+* گیت‌هاب: https://github.com/rastikerdar/vazirmatn
