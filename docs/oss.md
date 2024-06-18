@@ -13,6 +13,7 @@
 * پلاگین‌های استفاده شده
   * https://docsify.js.org/#/plugins?id=full-text-search
   * https://docsify.js.org/#/plugins?id=zoom-image
+  * https://docsify-darklight-theme.boopathikumar.me
 * مخزن راست‌چین شده docsify
   * https://github.com/hasanlo/docsify-rtl
 
