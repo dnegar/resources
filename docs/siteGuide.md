@@ -107,9 +107,9 @@
 * پر رنگ کردن متن (bold)
 * کج کردن متن (italic)
 * ایجاد پیوند (link)
-* خط زیر متن (undrline)
+* زیرخط (undrline)
 * کد (code)
-* نشانه گذاری (highlight)
+* برجسته کردن (highlight)
 
 <kbd>![](_media/guide/blockText.png)</kbd>
 
