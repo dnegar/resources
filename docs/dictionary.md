@@ -5,6 +5,8 @@
 | acceptance criteria | ملاک پذیرش |
 | added | اضافه شده |
 | agile | چابک |
+| authentication | احراز هویت |
+| authorization | اجازه‌ی دسترسی |
 
 ## حرف B
 
@@ -26,12 +28,13 @@
 | انگلیسی | فارسی |
 | --- | --- |
 | deprecated | منسوخ |
+| decryption | رمزگشایی |
 
 ## حرف E
 
 | انگلیسی | فارسی |
 | --- | --- |
-| | |
+| Encryption | رمزگذاری |
 
 ## حرف F
 
@@ -59,6 +62,7 @@
 | --- | --- |
 | improve | بهبود |
 | italic | کج کردن |
+| Isomorphic | هم‌ریخت |
 
 ## حرف G
 
